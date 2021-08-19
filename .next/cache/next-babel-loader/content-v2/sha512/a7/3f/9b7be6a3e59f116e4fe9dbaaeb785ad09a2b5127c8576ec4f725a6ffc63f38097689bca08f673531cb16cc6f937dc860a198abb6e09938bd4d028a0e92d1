@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (async (req, res) => {});","map":{"version":3,"sources":["C:/Users/Jura/WebstormProjects/gc_test/pages/api/[id].js"],"names":["req","res"],"mappings":"AACA,gBAAe,OAAOA,GAAP,EAAYC,GAAZ,KAAoB,CAElC,CAFD","sourcesContent":["\r\nexport default async (req, res) => {\r\n\r\n};\r\n"]},"metadata":{},"sourceType":"module"}
